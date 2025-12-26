@@ -116,5 +116,5 @@ Developed a machine learning model to predict potential adverse drug interaction
 ### 🤝 Connect With Me
 
 - Email: jaiswalaviral1606@gmail.com  
-- LinkedIn: [https://linkedin.com/in/yourprofile  ](https://www.linkedin.com/in/aviral-jaiswal-9711b12b6/)
+- LinkedIn: [(https://www.linkedin.com/in/aviral-jaiswal-9711b12b6/)]
 <h3 align="center">⭐ Turning ideas into innovation through technology and creativity ⭐</h3>
